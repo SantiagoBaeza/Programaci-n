@@ -30,3 +30,7 @@ Incluye ejemplos en **C, C++, Python, Qt** y también **HTML/CSS** para interfac
 Este repositorio funciona como índice de proyectos de programación.  
 Cada sección enlaza a repositorios específicos donde se encuentra el código y la documentación.
 
+---
+
+> 🧩 Estos espacios estan en contrucción y se actualizan de forma frecuente.
+

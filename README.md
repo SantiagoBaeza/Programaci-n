@@ -10,19 +10,19 @@ Incluye ejemplos en **C, C++, Python, Qt** y también **HTML/CSS** para interfac
 
 - **C y C++**  
   Ejercicios de lógica de control, estructuras de programación y aplicaciones orientadas a sistemas embebidos.  
-  🔗 [En contrucción](enlace_aca)
+  🔗 [En construcción](enlace_aca)
 
 - **Qt (C++ con interfaces gráficas)**  
   Desarrollo de interfaces gráficas y aplicaciones de escritorio usando Qt.  
-  🔗 [En contrucción](enlace_aca)
+  🔗 [En construcción](enlace_aca)
 
 - **Python**  
   Scripts para análisis de datos, automatización de tareas y prototipado rápido.  
-  🔗 [En contrucción](enlace_aca)
+  🔗 [En construcción](enlace_aca)
 
 - **HTML y CSS (Interfaces para ESP32)**  
   Ejemplos de páginas web embebidas en microcontroladores, usadas como interfaces de control.  
-  🔗 [En contrucción](enlace_aca)
+  🔗 [En construcción](enlace_aca)
 
 ---
 
@@ -32,5 +32,5 @@ Cada sección enlaza a repositorios específicos donde se encuentra el código y
 
 ---
 
-> 🧩 Estos espacios estan en contrucción y se actualizan de forma frecuente.
+> 🧩 Estos espacios estan en construcción y se actualizan de forma frecuente.
 

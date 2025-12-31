@@ -14,7 +14,7 @@ Incluye ejemplos en **C, C++, Python, Qt** y también **HTML/CSS** para interfac
 
 - **Qt (C++ con interfaces gráficas)**  
   Desarrollo de interfaces gráficas y aplicaciones de escritorio usando Qt.  
-  🔗 [En construcción](enlace_aca)
+  🔗 [Ver repositorio](https://github.com/SantiagoBaeza/proyectos-con-Qt/tree/main)
 
 - **Python**  
   Scripts para análisis de datos, automatización de tareas y prototipado rápido.  

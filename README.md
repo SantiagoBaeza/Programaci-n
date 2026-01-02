@@ -10,7 +10,7 @@ Incluye ejemplos en **C, C++, Python, Qt** y también **HTML/CSS** para interfac
 
 - **C y C++**  
   Ejercicios de lógica de control, estructuras de programación y aplicaciones orientadas a sistemas embebidos.  
-  🔗 [En construcción](enlace_aca)
+  🔗 [Ver repositorio](https://github.com/SantiagoBaeza/C-y-C-/tree/main)
 
 - **Qt (C++ con interfaces gráficas)**  
   Desarrollo de interfaces gráficas y aplicaciones de escritorio usando Qt.  

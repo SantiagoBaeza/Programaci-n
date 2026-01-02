@@ -22,7 +22,7 @@ Incluye ejemplos en **C, C++, Python, Qt** y también **HTML/CSS** para interfac
 
 - **HTML y CSS (Interfaces para ESP32)**  
   Ejemplos de páginas web embebidas en microcontroladores, usadas como interfaces de control.  
-  🔗 [En construcción](enlace_aca)
+  🔗 [Ver repositorio](https://github.com/SantiagoBaeza/HTML-y-CSS-Interfaces-para-ESP32-/tree/main)
 
 ---
 

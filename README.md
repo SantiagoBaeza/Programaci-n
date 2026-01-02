@@ -18,7 +18,7 @@ Incluye ejemplos en **C, C++, Python, Qt** y también **HTML/CSS** para interfac
 
 - **Python**  
   Scripts para análisis de datos, automatización de tareas y prototipado rápido.  
-  🔗 [En construcción](enlace_aca)
+  🔗 [Ver repositorio](https://github.com/SantiagoBaeza/proyectos-en-Python/tree/main)
 
 - **HTML y CSS (Interfaces para ESP32)**  
   Ejemplos de páginas web embebidas en microcontroladores, usadas como interfaces de control.  

@@ -8,7 +8,7 @@ Incluye ejemplos en **C, C++, Python, Qt** y también **HTML/CSS** para interfac
 
 ## Índice de proyectos
 
-- **C y C++ [N/A]**  
+- **C y C++**  
   Ejercicios de lógica de control, estructuras de programación y aplicaciones orientadas a sistemas embebidos.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/C-y-C-/tree/main)
 

@@ -16,7 +16,7 @@ Incluye ejemplos en **C, C++, Python, Qt** y también **HTML/CSS** para interfac
   Desarrollo de interfaces gráficas y aplicaciones de escritorio usando Qt.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/proyectos-con-Qt/tree/main)
 
-- **Python [N/A]**  
+- **Python**  
   Scripts para análisis de datos, automatización de tareas y prototipado rápido.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/proyectos-en-Python/tree/main)
 
